@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Haoyi Wei. I am working as a Postdoc fellow in Data Analysis at the National Center for Science and Engineering Statistics (NCSES) within the National Science Foundation (NSF). 
+- 👀 I’m interested in applying causal inference and Machine Learning methods on topics in applied microeconomic and Science of Science.
+- 💞️ I’m looking to collaborate on Health Economics, Labor Economics, and data Science.
+- 📫 How to reach me: howei@nsf.gov
